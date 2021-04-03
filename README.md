@@ -10,4 +10,4 @@
 
 3.Yang tampil duluan adalah CSS internal terlebih dahulu karena 1 file  dengan HTML![image](https://user-images.githubusercontent.com/81579730/113340846-9a4adc80-9356-11eb-8f9b-c241a8739cda.png)
 ![image](https://user-images.githubusercontent.com/81579730/113341670-a3887900-9357-11eb-96fc-399e2ed4c9b4.png)
-
+4.Yang akan ditampilkan sebagai file css adalah elemen 'class' karena elemen 'class' mendeklarasikan class CSS yang digunakan. sedangan ID menetukan ID unik yang terdapat pada elemen contohnya : <a class="button btn-primary"href="intro">
